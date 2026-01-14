@@ -1,7 +1,7 @@
 # My Digital-Portfolio
 Explore my journey in work readiness:
 
-1. [Career Counselling](/careercounselling/reflection.md)  
+1. [Career Counselling](/CareerCounselling/reflection.md)  
 2. [Skills & Interests](/skillsinterests/reflection.md)  
 3. [Personality Assessment](/personalityassessment/reflection.md)  
 4. [Create a CV](/createcv/reflection.md)  
