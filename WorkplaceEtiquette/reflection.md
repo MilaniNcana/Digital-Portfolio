@@ -1,25 +1,21 @@
-Reflection: Workplace Etiquette (STAR Technique)
+# Reflection: Workplace Etiquette (STAR Technique)
 
-S - Situation
-I was required to complete a formative assessment on Workplace Etiquette as the final component of the work readiness training program. This assessment focused on essential professional behaviours, covering topics such as the appropriate handling of rude emails, punctuality for meetings, managing confidential information, using personal technology at work, and the protocol for requesting to leave work early. A final mark of 100/100 was achieved on this submitted formative assessment.
+## S – Situation
+I was required to complete a formative assessment on **Workplace Etiquette** as the final component of the work readiness training program. The assessment focused on essential professional behaviours, including handling rude or inappropriate emails, punctuality for meetings, managing confidential information, appropriate use of personal technology at work, and the correct protocol for requesting to leave work early. The assessment was completed with a **Final Mark of 100/100**, submitted on **28/03/2025**.
 
-T - Task
-The task was to demonstrate my preparedness to operate professionally within an organisational environment by applying sound judgment to various common workplace scenarios. I needed to showcase my understanding of professional decorum and best practices to ensure harmonious and efficient interactions with colleagues and management.
+## T – Task
+My task was to demonstrate my readiness to operate professionally within an organisational environment by applying sound judgment to common workplace scenarios. This required showing an understanding of professional conduct, workplace policies, and respectful interaction with colleagues and management.
 
-A - Action
-I thoroughly studied the training module on workplace conduct, paying close attention to specific rules regarding promptness and the sensitivity of company information. I specifically focused on procedures for handling difficult professional communication, like rude emails, and the general standard for using personal devices at my desk. During the assessment, I carefully considered each scenario, ensuring my chosen response aligned with professional and respectful etiquette. The final mark of 100% confirms that I successfully mastered all the core principles of workplace etiquette required by the training.
+## A – Action
+I studied the workplace etiquette training material in detail, focusing on expectations around punctuality, confidentiality, and professional communication. I paid particular attention to how to respond appropriately to difficult situations, such as receiving rude or offensive emails, and the responsible use of personal devices during working hours. During the assessment, I carefully evaluated each scenario and selected responses that aligned with professional standards and organisational best practices.
 
-R - Result
-The result is the successful completion of the formative assessment with a Final Mark of 100/100, submitted on 28/03/2025. This artefact is clear evidence of my proficiency in critical workplace behaviours. I have learned and demonstrated the capacity to:
+## R – Result
+The assessment was successfully completed with a **Final Mark of 100/100**, providing clear evidence of my understanding of workplace etiquette. Through this process, I demonstrated the ability to:
 
-1) Handle rude or offensive emails professionally.
+- Handle rude or offensive emails in a professional and respectful manner  
+- Recognise the importance of punctuality for scheduled meetings  
+- Manage confidential information responsibly  
+- Adhere to workplace rules regarding personal cell phone usage  
+- Follow correct procedures when requesting to leave work early  
 
-2) Understand the importance of punctuality for scheduled meetings.
-
-3) Appropriately handle confidential information.
-
-4) Observe rules regarding the use of personal cell phones in the workplace.
-
-5) Follow the correct protocol when needing to leave work early.
-
-This knowledge confirms my readiness to integrate into a professional workplace environment and contribute positively to its culture.
+This reflection confirms my readiness to integrate into a professional workplace environment and contribute positively to organisational culture.
